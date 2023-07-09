@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1316838126
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: main
+      Dependencies: {}
+    Info_1:
+      Name: switchassets
+      Dependencies: {}

@@ -1,0 +1,1298 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6798d1dcb7e54a6d491503e7da17d1af, type: 3}
+  m_Name: NotBackground_0
+  m_EditorClassIdentifier:
+  Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+  Regions:
+    Size: 128
+    SlotCount: 62
+    Slots:
+    - Hash: -457754496
+      Key: Glow_112
+      Value:
+        Name: Glow_112
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1000
+          y: 18
+          width: 486
+          height: 18
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: -457753469
+      Key: Glow_236
+      Value:
+        Name: Glow_236
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 2014
+          y: 40
+          width: 34
+          height: 56
+    - Hash: 159388676
+      Key: GemChain_1
+      Value:
+        Name: GemChain_1
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1016
+          y: 10
+          width: 14
+          height: 8
+    - Hash: 159388677
+      Key: GemChain_2
+      Value:
+        Name: GemChain_2
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1040
+          y: 10
+          width: 10
+          height: 8
+    - Hash: 159388678
+      Key: GemChain_3
+      Value:
+        Name: GemChain_3
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1050
+          y: 10
+          width: 10
+          height: 8
+    - Hash: 159388679
+      Key: GemChain_4
+      Value:
+        Name: GemChain_4
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1896
+          y: 12
+          width: 10
+          height: 8
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 159388681
+      Key: GemChain_6
+      Value:
+        Name: GemChain_6
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1030
+          y: 10
+          width: 10
+          height: 8
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: -1891514234
+      Key: Chain16
+      Value:
+        Name: Chain16
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1060
+          y: 10
+          width: 8
+          height: 8
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: -1744633583
+      Key: Extra_35
+      Value:
+        Name: Extra_35
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 2020
+          y: 1634
+          width: 24
+          height: 222
+    - Hash: 1786349074
+      Key: Glow_22
+      Value:
+        Name: Glow_22
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1486
+          y: 18
+          width: 56
+          height: 18
+    - Hash: -1807339245
+      Key: SunOrb
+      Value:
+        Name: SunOrb
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 2020
+          y: 1010
+          width: 26
+          height: 26
+    - Hash: 1354578452
+      Key: Liquid_7
+      Value:
+        Name: Liquid_7
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1600
+          y: 20
+          width: 306
+          height: 16
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 1786349204
+      Key: Glow_68
+      Value:
+        Name: Glow_68
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1920
+          y: 0
+          width: 70
+          height: 34
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 235121815
+      Key: Outline_125
+      Value:
+        Name: Outline_125
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 2014
+          y: 0
+          width: 34
+          height: 34
+    - Hash: -1394226405
+      Key: HealthBar2
+      Value:
+        Name: HealthBar2
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1600
+          y: 8
+          width: 36
+          height: 12
+    - Hash: -457754340
+      Key: Glow_163
+      Value:
+        Name: Glow_163
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1920
+          y: 328
+          width: 128
+          height: 680
+    - Hash: -457754339
+      Key: Glow_164
+      Value:
+        Name: Glow_164
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1920
+          y: 1136
+          width: 100
+          height: 912
+    - Hash: -457754338
+      Key: Glow_165
+      Value:
+        Name: Glow_165
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1780
+          y: 12
+          width: 20
+          height: 8
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: -424957155
+      Key: Sky_Slime_2
+      Value:
+        Name: Sky_Slime_2
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 2004
+          y: 1016
+          width: 14
+          height: 120
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: -1394226406
+      Key: HealthBar1
+      Value:
+        Name: HealthBar1
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1636
+          y: 8
+          width: 36
+          height: 12
+    - Hash: 2023900708
+      Key: Coin_2
+      Value:
+        Name: Coin_2
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1906
+          y: 138
+          width: 12
+          height: 144
+    - Hash: -1808617051
+      Key: Star_2
+      Value:
+        Name: Star_2
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 2026
+          y: 1136
+          width: 6
+          height: 6
+    - Hash: 1778957210
+      Key: ItemFlame_713
+      Value:
+        Name: ItemFlame_713
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1906
+          y: 86
+          width: 12
+          height: 20
+    - Hash: -1808617049
+      Key: Star_4
+      Value:
+        Name: Star_4
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1906
+          y: 8
+          width: 12
+          height: 12
+    - Hash: 1492665640
+      Key: Chains_5
+      Value:
+        Name: Chains_5
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1880
+          y: 12
+          width: 16
+          height: 8
+    - Hash: 1492665641
+      Key: Chains_6
+      Value:
+        Name: Chains_6
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1000
+          y: 10
+          width: 16
+          height: 8
+    - Hash: 1492665639
+      Key: Chains_4
+      Value:
+        Name: Chains_4
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1800
+          y: 12
+          width: 16
+          height: 8
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: -1808617050
+      Key: Star_3
+      Value:
+        Name: Star_3
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 2020
+          y: 1136
+          width: 6
+          height: 6
+    - Hash: -1744633427
+      Key: Extra_86
+      Value:
+        Name: Extra_86
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1732
+          y: 10
+          width: 28
+          height: 10
+    - Hash: -1744633426
+      Key: Extra_87
+      Value:
+        Name: Extra_87
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1672
+          y: 8
+          width: 28
+          height: 12
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 1492665642
+      Key: Chains_7
+      Value:
+        Name: Chains_7
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1848
+          y: 12
+          width: 16
+          height: 8
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: -1744633549
+      Key: Extra_48
+      Value:
+        Name: Extra_48
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1600
+          y: 84
+          width: 272
+          height: 924
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 2017193398
+      Key: Chain7
+      Value:
+        Name: Chain7
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1486
+          y: 8
+          width: 10
+          height: 10
+    - Hash: 235124663
+      Key: Outline_411
+      Value:
+        Name: Outline_411
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1786
+          y: 46
+          width: 72
+          height: 38
+    - Hash: 1786349112
+      Key: Glow_39
+      Value:
+        Name: Glow_39
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1542
+          y: 18
+          width: 38
+          height: 18
+    - Hash: -1808617052
+      Key: Star_1
+      Value:
+        Name: Star_1
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 2044
+          y: 1854
+          width: 2
+          height: 2
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: -687021379
+      Key: ItemFlame_3045
+      Value:
+        Name: ItemFlame_3045
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1906
+          y: 20
+          width: 14
+          height: 16
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: -457754305
+      Key: Glow_177
+      Value:
+        Name: Glow_177
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1872
+          y: 40
+          width: 48
+          height: 44
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: -457754303
+      Key: Glow_179
+      Value:
+        Name: Glow_179
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 2020
+          y: 1142
+          width: 24
+          height: 60
+    - Hash: -457754430
+      Key: Glow_136
+      Value:
+        Name: Glow_136
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1872
+          y: 282
+          width: 46
+          height: 726
+    - Hash: -457754429
+      Key: Glow_137
+      Value:
+        Name: Glow_137
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 2020
+          y: 1036
+          width: 26
+          height: 100
+    - Hash: 1005179076
+      Key: Tree_Branches_2
+      Value:
+        Name: Tree_Branches_2
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1920
+          y: 1010
+          width: 84
+          height: 126
+    - Hash: -457754433
+      Key: Glow_133
+      Value:
+        Name: Glow_133
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1580
+          y: 18
+          width: 20
+          height: 18
+    - Hash: -1891514170
+      Key: Chain38
+      Value:
+        Name: Chain38
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1832
+          y: 12
+          width: 16
+          height: 8
+    - Hash: -1891514169
+      Key: Chain39
+      Value:
+        Name: Chain39
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1864
+          y: 12
+          width: 16
+          height: 8
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 1786349258
+      Key: Glow_80
+      Value:
+        Name: Glow_80
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1906
+          y: 106
+          width: 12
+          height: 32
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 1786349261
+      Key: Glow_83
+      Value:
+        Name: Glow_83
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1700
+          y: 10
+          width: 32
+          height: 10
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 1786349263
+      Key: Glow_85
+      Value:
+        Name: Glow_85
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1872
+          y: 84
+          width: 34
+          height: 22
+    - Hash: 1786349264
+      Key: Glow_86
+      Value:
+        Name: Glow_86
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1990
+          y: 2
+          width: 22
+          height: 32
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 1499878610
+      Key: Reaper_Eyes
+      Value:
+        Name: Reaper_Eyes
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 2014
+          y: 96
+          width: 34
+          height: 232
+    - Hash: -1744633520
+      Key: Extra_56
+      Value:
+        Name: Extra_56
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1760
+          y: 12
+          width: 20
+          height: 8
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: -895634985
+      Key: NebulaPlanet
+      Value:
+        Name: NebulaPlanet
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 0
+          y: 1008
+          width: 1920
+          height: 1040
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: -457753501
+      Key: Glow_225
+      Value:
+        Name: Glow_225
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1000
+          y: 36
+          width: 600
+          height: 972
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: -457753497
+      Key: Glow_229
+      Value:
+        Name: Glow_229
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 2020
+          y: 1856
+          width: 28
+          height: 192
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 1145982957
+      Key: Shroom_Tops
+      Value:
+        Name: Shroom_Tops
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1600
+          y: 40
+          width: 186
+          height: 44
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 68778607
+      Key: Ghost
+      Value:
+        Name: Ghost
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1872
+          y: 106
+          width: 34
+          height: 176
+    - Hash: -1744633491
+      Key: Extra_64
+      Value:
+        Name: Extra_64
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 2020
+          y: 1202
+          width: 24
+          height: 216
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 1786349296
+      Key: Glow_97
+      Value:
+        Name: Glow_97
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1816
+          y: 12
+          width: 16
+          height: 8
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: -1744633611
+      Key: Extra_28
+      Value:
+        Name: Extra_28
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 0
+          y: 8
+          width: 1000
+          height: 1000
+    - Hash: -13267082
+      Key: BackPack_5
+      Value:
+        Name: BackPack_5
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1858
+          y: 50
+          width: 14
+          height: 34
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: -457754245
+      Key: Glow_195
+      Value:
+        Name: Glow_195
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 2020
+          y: 1418
+          width: 24
+          height: 216
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: 0
+      Key:
+      Value:
+        Name:
+        Texture: {fileID: 0}
+        Bounds:
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+    - Hash: -457753473
+      Key: Glow_232
+      Value:
+        Name: Glow_232
+        Texture: {fileID: 2800000, guid: faa279e2559d60f46b8d007a4069243f, type: 3}
+        Bounds:
+          x: 1920
+          y: 34
+          width: 94
+          height: 294

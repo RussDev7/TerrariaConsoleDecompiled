@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Viewport0
+  - Viewport1
+  - Viewport2
+  - Viewport3
+  - RenderTarget
+  - Disabled
+  - ViewportAboveUI0
+  - ViewportAboveUI1
+  - ViewportAboveUI2
+  - ViewportAboveUI3
+  - WorldTarget0
+  - WorldTarget1
+  - WorldTarget2
+  - WorldTarget3
+  - ViewportUI0
+  - ViewportUI1
+  - ViewportUI2
+  - ViewportUI3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
