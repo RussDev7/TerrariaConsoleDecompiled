@@ -1,0 +1,84 @@
+{"frames": [
+
+{
+	"filename": "NPC_599-0_0",
+	"frame": {"x":267,"y":1,"w":258,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":1,"w":258,"h":191},
+	"sourceSize": {"w":264,"h":192},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "NPC_599-0_1",
+	"frame": {"x":1,"y":1,"w":264,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":264,"h":191},
+	"sourceSize": {"w":264,"h":192},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "NPC_599-0_2",
+	"frame": {"x":527,"y":1,"w":260,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":260,"h":188},
+	"sourceSize": {"w":264,"h":192},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "NPC_599-0_3",
+	"frame": {"x":267,"y":194,"w":258,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":1,"w":258,"h":191},
+	"sourceSize": {"w":264,"h":192},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "NPC_599-0_4",
+	"frame": {"x":1,"y":194,"w":264,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":264,"h":191},
+	"sourceSize": {"w":264,"h":192},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "NPC_599-0_5",
+	"frame": {"x":527,"y":191,"w":260,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":260,"h":188},
+	"sourceSize": {"w":264,"h":192},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "NPC_600-0_0",
+	"frame": {"x":1,"y":387,"w":62,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":63},
+	"sourceSize": {"w":62,"h":64},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "NPC_600-0_1",
+	"frame": {"x":1,"y":452,"w":56,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":56,"h":56},
+	"sourceSize": {"w":62,"h":64},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "NPC4.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e5ae15eabf1b7c3d7d38fc6557e47249:f56d9c58ec04da4c74543ce138126bb1:b31eaaa2415993ab61e3c7cabfdf8b70$"
+}
+}

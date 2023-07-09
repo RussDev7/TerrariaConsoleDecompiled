@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6798d1dcb7e54a6d491503e7da17d1af, type: 3}
   m_Name: Background_6
   m_EditorClassIdentifier:
-  Texture: {fileID: 2800000, guid: 4e25917324ed12e42835f738b23f985b, type: 3}
+  Texture: {fileID: 2800000, guid: a23a4f6fc8c7e834cbb17d02032d0795, type: 3}
   Regions:
     Size: 128
     SlotCount: 8
@@ -160,7 +160,7 @@ MonoBehaviour:
       Key: Background_41
       Value:
         Name: Background_41
-        Texture: {fileID: 2800000, guid: 4e25917324ed12e42835f738b23f985b, type: 3}
+        Texture: {fileID: 2800000, guid: a23a4f6fc8c7e834cbb17d02032d0795, type: 3}
         Bounds:
           x: 1024
           y: 14
@@ -490,7 +490,7 @@ MonoBehaviour:
       Key: Background_53
       Value:
         Name: Background_53
-        Texture: {fileID: 2800000, guid: 4e25917324ed12e42835f738b23f985b, type: 3}
+        Texture: {fileID: 2800000, guid: a23a4f6fc8c7e834cbb17d02032d0795, type: 3}
         Bounds:
           x: 1024
           y: 982
@@ -510,7 +510,7 @@ MonoBehaviour:
       Key: Background_55
       Value:
         Name: Background_55
-        Texture: {fileID: 2800000, guid: 4e25917324ed12e42835f738b23f985b, type: 3}
+        Texture: {fileID: 2800000, guid: a23a4f6fc8c7e834cbb17d02032d0795, type: 3}
         Bounds:
           x: 0
           y: 1515
@@ -520,7 +520,7 @@ MonoBehaviour:
       Key: Background_56
       Value:
         Name: Background_56
-        Texture: {fileID: 2800000, guid: 4e25917324ed12e42835f738b23f985b, type: 3}
+        Texture: {fileID: 2800000, guid: a23a4f6fc8c7e834cbb17d02032d0795, type: 3}
         Bounds:
           x: 1024
           y: 1515
@@ -530,7 +530,7 @@ MonoBehaviour:
       Key: Background_57
       Value:
         Name: Background_57
-        Texture: {fileID: 2800000, guid: 4e25917324ed12e42835f738b23f985b, type: 3}
+        Texture: {fileID: 2800000, guid: a23a4f6fc8c7e834cbb17d02032d0795, type: 3}
         Bounds:
           x: 0
           y: 982
@@ -770,7 +770,7 @@ MonoBehaviour:
       Key: Background_60
       Value:
         Name: Background_60
-        Texture: {fileID: 2800000, guid: 4e25917324ed12e42835f738b23f985b, type: 3}
+        Texture: {fileID: 2800000, guid: a23a4f6fc8c7e834cbb17d02032d0795, type: 3}
         Bounds:
           x: 0
           y: 449
@@ -780,7 +780,7 @@ MonoBehaviour:
       Key: Background_61
       Value:
         Name: Background_61
-        Texture: {fileID: 2800000, guid: 4e25917324ed12e42835f738b23f985b, type: 3}
+        Texture: {fileID: 2800000, guid: a23a4f6fc8c7e834cbb17d02032d0795, type: 3}
         Bounds:
           x: 1024
           y: 449
@@ -1180,7 +1180,7 @@ MonoBehaviour:
       Key: Background_36
       Value:
         Name: Background_36
-        Texture: {fileID: 2800000, guid: 4e25917324ed12e42835f738b23f985b, type: 3}
+        Texture: {fileID: 2800000, guid: a23a4f6fc8c7e834cbb17d02032d0795, type: 3}
         Bounds:
           x: 0
           y: 14

@@ -7,7 +7,7 @@ LightingDataAsset:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Main
-  m_Scene: {fileID: 102900000, guid: a21c4b9040f20324d8a73964fc516850, type: 3}
+  m_Scene: {fileID: 102900000, guid: ed366d4944fea0241a13f71bfae59c3e, type: 3}
   m_Lightmaps: []
   m_LightmapsCacheFiles: []
   m_LightProbes: {fileID: 0}

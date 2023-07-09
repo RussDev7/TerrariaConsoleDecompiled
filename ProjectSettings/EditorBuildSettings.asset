@@ -7,8 +7,8 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Main.unity
-    guid: a21c4b9040f20324d8a73964fc516850
+    guid: ed366d4944fea0241a13f71bfae59c3e
   - enabled: 1
     path: Assets/Prefabs/UI/Inventory/ReLogic/Inventory_ReLogic.unity
-    guid: 961be3182a3b6b84a8b204feab5b4427
+    guid: 7f550b423046fa6438f395df289bc749
   m_configObjects: {}

@@ -7,7 +7,7 @@ LightingDataAsset:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Inventory_ReLogic
-  m_Scene: {fileID: 102900000, guid: 961be3182a3b6b84a8b204feab5b4427, type: 3}
+  m_Scene: {fileID: 102900000, guid: 7f550b423046fa6438f395df289bc749, type: 3}
   m_Lightmaps: []
   m_LightmapsCacheFiles: []
   m_LightProbes: {fileID: 0}

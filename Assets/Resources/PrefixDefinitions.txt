@@ -1,0 +1,431 @@
+[
+  {
+    "Name": "None",
+  },
+  {
+    "Name": "Large",
+    "SizeMultiplier": 1.12,
+  },
+  {
+    "Name": "Massive",
+    "SizeMultiplier": 1.18,
+  },
+  {
+    "Name": "Dangerous",
+    "DamageMultiplier": 1.05,
+    "SizeMultiplier": 1.05,
+    "CriticalDelta": 2,
+  },
+  {
+    "Name": "Savage",
+    "DamageMultiplier": 1.1,
+    "KnockbackMultiplier": 1.1,
+    "SizeMultiplier": 1.1,
+  },
+  {
+    "Name": "Sharp",
+    "DamageMultiplier": 1.15,
+  },
+  {
+    "Name": "Pointy",
+    "DamageMultiplier": 1.1,
+  },
+  {
+    "Name": "Tiny",
+    "SizeMultiplier": 0.82,
+    "RetryChance": 3,
+  },
+  {
+    "Name": "Terrible",
+    "DamageMultiplier": 0.85,
+    "KnockbackMultiplier": 0.85,
+    "SizeMultiplier": 0.87,
+    "RetryChance": 3,
+  },
+  {
+    "Name": "Small",
+    "SizeMultiplier": 0.9,
+    "CriticalDelta": 0,
+    "RetryChance": 3,
+  },
+  {
+    "Name": "Dull",
+    "DamageMultiplier": 0.85,
+    "RetryChance": 3,
+  },
+  {
+    "Name": "Unhappy",
+    "KnockbackMultiplier": 0.9,
+    "SpeedMultiplier": 1.1,
+    "SizeMultiplier": 0.9,
+    "RetryChance": 3,
+  },
+  {
+    "Name": "Bulky",
+    "DamageMultiplier": 1.05,
+    "KnockbackMultiplier": 1.1,
+    "SpeedMultiplier": 1.15,
+    "SizeMultiplier": 1.1,
+  },
+  {
+    "Name": "Shameful",
+    "DamageMultiplier": 0.9,
+    "KnockbackMultiplier": 0.8,
+    "SizeMultiplier": 1.1,
+  },
+  {
+    "Name": "Heavy",
+    "KnockbackMultiplier": 1.15,
+    "SpeedMultiplier": 1.1,
+  },
+  {
+    "Name": "Light",
+    "KnockbackMultiplier": 0.9,
+    "SpeedMultiplier": 0.85,
+  },
+  {
+    "Name": "Sighted",
+    "DamageMultiplier": 1.1,
+    "CriticalDelta": 3,
+  },
+  {
+    "Name": "Rapid",
+    "SpeedMultiplier": 0.85,
+    "ShotSpeedMultiplier": 1.1,
+  },
+  {
+    "Name": "Hasty",
+    "SpeedMultiplier": 0.9,
+    "ShotSpeedMultiplier": 1.15,
+  },
+  {
+    "Name": "Intimidating",
+    "KnockbackMultiplier": 1.15,
+    "ShotSpeedMultiplier": 1.05,
+  },
+  {
+    "Name": "Deadly",
+    "DamageMultiplier": 1.1,
+    "KnockbackMultiplier": 1.05,
+    "SpeedMultiplier": 0.95,
+    "ShotSpeedMultiplier": 1.05,
+    "CriticalDelta": 2,
+  },
+  {
+    "Name": "Staunch",
+    "DamageMultiplier": 1.1,
+    "KnockbackMultiplier": 1.15,
+  },
+  {
+    "Name": "Awful",
+    "DamageMultiplier": 0.85,
+    "KnockbackMultiplier": 0.9,
+    "ShotSpeedMultiplier": 0.9,
+    "RetryChance": 3,
+  },
+  {
+    "Name": "Lethargic",
+    "SpeedMultiplier": 1.15,
+    "ShotSpeedMultiplier": 0.9,
+    "RetryChance": 3,
+  },
+  {
+    "Name": "Awkward",
+    "KnockbackMultiplier": 0.8,
+    "SpeedMultiplier": 1.1,
+    "RetryChance": 3,
+  },
+  {
+    "Name": "Powerful",
+    "DamageMultiplier": 1.15,
+    "SpeedMultiplier": 1.1,
+    "CriticalDelta": 1,
+  },
+  {
+    "Name": "Mystic",
+    "DamageMultiplier": 1.1,
+    "ManaMultiplier": 0.85,
+  },
+  {
+    "Name": "Adept",
+    "ManaMultiplier": 0.85,
+  },
+  {
+    "Name": "Masterful",
+    "DamageMultiplier": 1.15,
+    "KnockbackMultiplier": 1.05,
+    "ManaMultiplier": 0.85,
+  },
+  {
+    "Name": "Inept",
+    "ManaMultiplier": 1.1,
+    "RetryChance": 3,
+  },
+  {
+    "Name": "Ignorant",
+    "DamageMultiplier": 0.9,
+    "ManaMultiplier": 1.2,
+    "RetryChance": 3,
+  },
+  {
+    "Name": "Deranged",
+    "DamageMultiplier": 0.9,
+    "KnockbackMultiplier": 0.9,
+    "RetryChance": 3,
+  },
+  {
+    "Name": "Intense",
+    "DamageMultiplier": 1.1,
+    "ManaMultiplier": 1.15,
+  },
+  {
+    "Name": "Taboo",
+    "KnockbackMultiplier": 1.1,
+    "SpeedMultiplier": 0.9,
+    "ManaMultiplier": 1.1,
+  },
+  {
+    "Name": "Celestial",
+    "DamageMultiplier": 1.1,
+    "KnockbackMultiplier": 1.1,
+    "SpeedMultiplier": 1.1,
+    "ManaMultiplier": 0.9,
+  },
+  {
+    "Name": "Furious",
+    "DamageMultiplier": 1.15,
+    "KnockbackMultiplier": 1.15,
+    "ManaMultiplier": 1.2,
+  },
+  {
+    "Name": "Keen",
+    "CriticalDelta": 3,
+  },
+  {
+    "Name": "Superior",
+    "DamageMultiplier": 1.1,
+    "KnockbackMultiplier": 1.1,
+    "CriticalDelta": 3,
+  },
+  {
+    "Name": "Forceful",
+    "KnockbackMultiplier": 1.15,
+  },
+  {
+    "Name": "Broken",
+    "DamageMultiplier": 0.7,
+    "KnockbackMultiplier": 0.8,
+    "RetryChance": 3,
+  },
+  {
+    "Name": "Damaged",
+    "DamageMultiplier": 0.85,
+    "RetryChance": 3,
+  },
+  {
+    "Name": "Shoddy",
+    "DamageMultiplier": 0.85,
+    "KnockbackMultiplier": 0.85,
+    "RetryChance": 3,
+  },
+  {
+    "Name": "Quick",
+    "SpeedMultiplier": 0.9,
+  },
+  {
+    "Name": "Deadly",
+    "DamageMultiplier": 1.1,
+    "SpeedMultiplier": 0.9,
+  },
+  {
+    "Name": "Agile",
+    "SpeedMultiplier": 0.9,
+    "CriticalDelta": 3,
+  },
+  {
+    "Name": "Nimble",
+    "SpeedMultiplier": 0.95,
+  },
+  {
+    "Name": "Murderous",
+    "DamageMultiplier": 1.07,
+    "SpeedMultiplier": 0.94,
+    "CriticalDelta": 3,
+  },
+  {
+    "Name": "Slow",
+    "SpeedMultiplier": 1.15,
+    "RetryChance": 3,
+  },
+  {
+    "Name": "Sluggish",
+    "SpeedMultiplier": 1.2,
+    "RetryChance": 3,
+  },
+  {
+    "Name": "Lazy",
+    "SpeedMultiplier": 1.08,
+    "RetryChance": 3,
+  },
+  {
+    "Name": "Annoying",
+    "DamageMultiplier": 0.8,
+    "SpeedMultiplier": 1.15,
+  },
+  {
+    "Name": "Nasty",
+    "DamageMultiplier": 1.05,
+    "KnockbackMultiplier": 0.9,
+    "SpeedMultiplier": 0.9,
+    "CriticalDelta": 2,
+  },
+  {
+    "Name": "Manic",
+    "DamageMultiplier": 0.9,
+    "SpeedMultiplier": 0.9,
+    "ManaMultiplier": 0.9,
+  },
+  {
+    "Name": "Hurtful",
+    "DamageMultiplier": 1.1,
+  },
+  {
+    "Name": "Strong",
+    "KnockbackMultiplier": 1.15,
+  },
+  {
+    "Name": "Unpleasant",
+    "DamageMultiplier": 1.05,
+    "KnockbackMultiplier": 1.15,
+  },
+  {
+    "Name": "Weak",
+    "KnockbackMultiplier": 0.8,
+    "RetryChance": 3,
+  },
+  {
+    "Name": "Ruthless",
+    "DamageMultiplier": 1.18,
+    "KnockbackMultiplier": 0.9,
+  },
+  {
+    "Name": "Frenzying",
+    "DamageMultiplier": 0.85,
+    "SpeedMultiplier": 0.85,
+  },
+  {
+    "Name": "Godly",
+    "DamageMultiplier": 1.15,
+    "KnockbackMultiplier": 1.15,
+    "CriticalDelta": 5,
+  },
+  {
+    "Name": "Demonic",
+    "DamageMultiplier": 1.15,
+    "CriticalDelta": 5,
+  },
+  {
+    "Name": "Zealous",
+    "CriticalDelta": 5,
+  },
+  {
+    "Name": "Hard",
+    "ValueMultiplier": 1.05,
+  },
+  {
+    "Name": "Guarding",
+    "ValueMultiplier": 1.1,
+  },
+  {
+    "Name": "Armored",
+    "ValueMultiplier": 1.15,
+  },
+  {
+    "Name": "Warding",
+    "ValueMultiplier": 1.2,
+  },
+  {
+    "Name": "Arcane",
+    "ValueMultiplier": 1.15,
+  },
+  {
+    "Name": "Precise",
+    "ValueMultiplier": 1.1,
+  },
+  {
+    "Name": "Lucky",
+    "ValueMultiplier": 1.2,
+  },
+  {
+    "Name": "Jagged",
+    "ValueMultiplier": 1.05,
+  },
+  {
+    "Name": "Spiked",
+    "ValueMultiplier": 1.1,
+  },
+  {
+    "Name": "Angry",
+    "ValueMultiplier": 1.15,
+  },
+  {
+    "Name": "Menacing",
+    "ValueMultiplier": 1.2,
+  },
+  {
+    "Name": "Brisk",
+    "ValueMultiplier": 1.05,
+  },
+  {
+    "Name": "Fleeting",
+    "ValueMultiplier": 1.1,
+  },
+  {
+    "Name": "Hasty",
+    "ValueMultiplier": 1.15,
+  },
+  {
+    "Name": "Quick",
+    "ValueMultiplier": 1.2,
+  },
+  {
+    "Name": "Wild",
+    "ValueMultiplier": 1.05,
+  },
+  {
+    "Name": "Rash",
+    "ValueMultiplier": 1.1,
+  },
+  {
+    "Name": "Intrepid",
+    "ValueMultiplier": 1.15,
+  },
+  {
+    "Name": "Violent",
+    "ValueMultiplier": 1.2,
+  },
+  {
+    "Name": "Legendary",
+    "DamageMultiplier": 1.15,
+    "KnockbackMultiplier": 1.15,
+    "SpeedMultiplier": 0.9,
+    "SizeMultiplier": 1.1,
+    "CriticalDelta": 5,
+  },
+  {
+    "Name": "Unreal",
+    "DamageMultiplier": 1.15,
+    "KnockbackMultiplier": 1.15,
+    "SpeedMultiplier": 0.9,
+    "ShotSpeedMultiplier": 1.1,
+    "CriticalDelta": 5,
+  },
+  {
+    "Name": "Mythical",
+    "DamageMultiplier": 1.15,
+    "KnockbackMultiplier": 1.15,
+    "SpeedMultiplier": 0.9,
+    "ManaMultiplier": 0.9,
+    "CriticalDelta": 5,
+  }
+]

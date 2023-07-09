@@ -1,0 +1,210 @@
+{"frames": [
+
+{
+	"filename": "Cloud_0.png",
+	"frame": {"x":771,"y":325,"w":250,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":21,"w":250,"h":54},
+	"sourceSize": {"w":256,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cloud_1.png",
+	"frame": {"x":759,"y":455,"w":178,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":11,"w":178,"h":42},
+	"sourceSize": {"w":178,"h":64},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cloud_2.png",
+	"frame": {"x":863,"y":1,"w":159,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":15,"w":159,"h":50},
+	"sourceSize": {"w":162,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cloud_3.png",
+	"frame": {"x":939,"y":455,"w":74,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":25,"w":74,"h":24},
+	"sourceSize": {"w":74,"h":52},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cloud_4.png",
+	"frame": {"x":1,"y":349,"w":272,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":272,"h":125},
+	"sourceSize": {"w":272,"h":125},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cloud_5.png",
+	"frame": {"x":507,"y":147,"w":314,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":314,"h":133},
+	"sourceSize": {"w":314,"h":133},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cloud_6.png",
+	"frame": {"x":487,"y":408,"w":270,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":270,"h":142},
+	"sourceSize": {"w":270,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cloud_7.png",
+	"frame": {"x":1,"y":217,"w":300,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":130},
+	"sourceSize": {"w":300,"h":130},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cloud_8.png",
+	"frame": {"x":771,"y":381,"w":238,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":238,"h":72},
+	"sourceSize": {"w":238,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cloud_9.png",
+	"frame": {"x":303,"y":285,"w":180,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":70},
+	"sourceSize": {"w":180,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cloud_10.png",
+	"frame": {"x":823,"y":253,"w":190,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":70},
+	"sourceSize": {"w":190,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cloud_11.png",
+	"frame": {"x":863,"y":53,"w":152,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":58},
+	"sourceSize": {"w":152,"h":58},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cloud_12.png",
+	"frame": {"x":759,"y":499,"w":90,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":30},
+	"sourceSize": {"w":90,"h":30},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cloud_13.png",
+	"frame": {"x":939,"y":481,"w":58,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":28},
+	"sourceSize": {"w":58,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cloud_14.png",
+	"frame": {"x":275,"y":421,"w":208,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":208,"h":74},
+	"sourceSize": {"w":208,"h":74},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cloud_15.png",
+	"frame": {"x":823,"y":171,"w":200,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":80},
+	"sourceSize": {"w":200,"h":80},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cloud_16.png",
+	"frame": {"x":303,"y":217,"w":186,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":186,"h":66},
+	"sourceSize": {"w":186,"h":66},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cloud_17.png",
+	"frame": {"x":863,"y":113,"w":142,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":56},
+	"sourceSize": {"w":142,"h":56},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cloud_18.png",
+	"frame": {"x":1,"y":1,"w":504,"h":214},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":504,"h":214},
+	"sourceSize": {"w":504,"h":214},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cloud_19.png",
+	"frame": {"x":507,"y":1,"w":354,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":354,"h":144},
+	"sourceSize": {"w":354,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cloud_20.png",
+	"frame": {"x":491,"y":282,"w":278,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":278,"h":124},
+	"sourceSize": {"w":278,"h":124},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cloud_21.png",
+	"frame": {"x":275,"y":357,"w":210,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":62},
+	"sourceSize": {"w":210,"h":62},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Clouds.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:509b2eccdbfb9cbeff44453c2a80157e:edf2d830d930f4a129e5a7e1e1572e1f:bc720d089cabdcb7148c794849b54881$"
+}
+}

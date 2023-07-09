@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: TextMeshPro/Sprite
-  m_Shader: {fileID: 4800000, guid: 3355e83157a27714b8eebfd9135ea17a, type: 3}
+  m_Shader: {fileID: 4800000, guid: 64671ed9717db104991cd912cde5d4ea, type: 3}
   m_ShaderKeywords:
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -19,7 +19,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: da29887b3fbea114184873f387ff8532, type: 3}
+        m_Texture: {fileID: 2800000, guid: 248a277444903b84f9cf89c31c342df2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:

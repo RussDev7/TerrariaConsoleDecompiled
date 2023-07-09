@@ -1,0 +1,50 @@
+[
+  {
+    "Comment": "Gold Mario",
+    "Identifiers": {
+      "BaseCharacterId": 0,
+      "SeriesId": -1,
+      "NumberingId": 60
+    },
+    "ItemsToGive": [
+      {
+        "ItemId": "GoldOre",
+        "Count": 10
+      }
+    ]
+  },
+  {
+    "Comment": "Mario (any)",
+    "Identifiers": {
+      "BaseCharacterId": 0,
+      "SeriesId": -1,
+      "NumberingId": -1
+    },
+    "ItemsToGive": [
+      {
+        "ItemId": "PlumbersHat",
+        "Count": 1
+      },
+      {
+        "ItemId": "PlumbersPants",
+        "Count": 1
+      },
+      {
+        "ItemId": "PlumbersShirt",
+        "Count": 1
+      },
+      {
+        "ItemId": "FlowerofFire",
+        "Count": 1
+      },
+      {
+        "ItemId": "FallenStar",
+        "Count": 3
+      },
+      {
+        "ItemId": "Mushroom",
+        "Count": 3
+      }
+    ]
+  }
+]

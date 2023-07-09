@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6798d1dcb7e54a6d491503e7da17d1af, type: 3}
   m_Name: NotBackground_5
   m_EditorClassIdentifier:
-  Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+  Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
   Regions:
     Size: 512
     SlotCount: 175
@@ -40,7 +40,7 @@ MonoBehaviour:
       Key: Star 0
       Value:
         Name: Star 0
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1884
           y: 1016
@@ -60,7 +60,7 @@ MonoBehaviour:
       Key: Flame_0
       Value:
         Name: Flame_0
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 248
           y: 256
@@ -140,7 +140,7 @@ MonoBehaviour:
       Key: Flame_8
       Value:
         Name: Flame_8
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1582
           y: 96
@@ -220,7 +220,7 @@ MonoBehaviour:
       Key: Glow_24
       Value:
         Name: Glow_24
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 2012
           y: 388
@@ -240,7 +240,7 @@ MonoBehaviour:
       Key: Wings_10
       Value:
         Name: Wings_10
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1754
           y: 96
@@ -260,7 +260,7 @@ MonoBehaviour:
       Key: Wings_12
       Value:
         Name: Wings_12
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1284
           y: 1610
@@ -280,7 +280,7 @@ MonoBehaviour:
       Key: Wings_14
       Value:
         Name: Wings_14
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1840
           y: 96
@@ -290,7 +290,7 @@ MonoBehaviour:
       Key: Wings_15
       Value:
         Name: Wings_15
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1926
           y: 96
@@ -300,7 +300,7 @@ MonoBehaviour:
       Key: Wings_16
       Value:
         Name: Wings_16
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1324
           y: 96
@@ -310,7 +310,7 @@ MonoBehaviour:
       Key: Wings_17
       Value:
         Name: Wings_17
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1152
           y: 360
@@ -320,7 +320,7 @@ MonoBehaviour:
       Key: Wings_18
       Value:
         Name: Wings_18
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1066
           y: 360
@@ -330,7 +330,7 @@ MonoBehaviour:
       Key: Wings_19
       Value:
         Name: Wings_19
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 980
           y: 360
@@ -340,7 +340,7 @@ MonoBehaviour:
       Key: Glow_200
       Value:
         Name: Glow_200
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 622
           y: 682
@@ -350,7 +350,7 @@ MonoBehaviour:
       Key: Glow_3
       Value:
         Name: Glow_3
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 710
           y: 682
@@ -360,7 +360,7 @@ MonoBehaviour:
       Key: Glow_202
       Value:
         Name: Glow_202
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1546
           y: 1288
@@ -370,7 +370,7 @@ MonoBehaviour:
       Key: Glow_2
       Value:
         Name: Glow_2
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 96
           y: 10
@@ -390,7 +390,7 @@ MonoBehaviour:
       Key: Waterfall_2
       Value:
         Name: Waterfall_2
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1396
           y: 1168
@@ -400,7 +400,7 @@ MonoBehaviour:
       Key: Waterfall_3
       Value:
         Name: Waterfall_3
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 884
           y: 1088
@@ -410,7 +410,7 @@ MonoBehaviour:
       Key: Waterfall_4
       Value:
         Name: Waterfall_4
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 884
           y: 1168
@@ -430,7 +430,7 @@ MonoBehaviour:
       Key: Glow_8
       Value:
         Name: Glow_8
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 654
           y: 682
@@ -440,7 +440,7 @@ MonoBehaviour:
       Key: Inventory_Back
       Value:
         Name: Inventory_Back
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1202
           y: 796
@@ -450,7 +450,7 @@ MonoBehaviour:
       Key: Waterfall_8
       Value:
         Name: Waterfall_8
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1396
           y: 1208
@@ -460,7 +460,7 @@ MonoBehaviour:
       Key: Waterfall_9
       Value:
         Name: Waterfall_9
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 884
           y: 1208
@@ -510,7 +510,7 @@ MonoBehaviour:
       Key: Glow_32
       Value:
         Name: Glow_32
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 406
           y: 632
@@ -520,7 +520,7 @@ MonoBehaviour:
       Key: Mount_Unicorn
       Value:
         Name: Mount_Unicorn
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 374
           y: 736
@@ -550,7 +550,7 @@ MonoBehaviour:
       Key: Wings_20
       Value:
         Name: Wings_20
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1410
           y: 360
@@ -560,7 +560,7 @@ MonoBehaviour:
       Key: Wings_21
       Value:
         Name: Wings_21
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1324
           y: 360
@@ -580,7 +580,7 @@ MonoBehaviour:
       Key: Wings_23
       Value:
         Name: Wings_23
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 722
           y: 360
@@ -590,7 +590,7 @@ MonoBehaviour:
       Key: Wings_24
       Value:
         Name: Wings_24
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 808
           y: 360
@@ -600,7 +600,7 @@ MonoBehaviour:
       Key: Wings_25
       Value:
         Name: Wings_25
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 894
           y: 360
@@ -610,7 +610,7 @@ MonoBehaviour:
       Key: Wings_26
       Value:
         Name: Wings_26
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 636
           y: 360
@@ -620,7 +620,7 @@ MonoBehaviour:
       Key: Wings_27
       Value:
         Name: Wings_27
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 550
           y: 344
@@ -640,7 +640,7 @@ MonoBehaviour:
       Key: Wings_29
       Value:
         Name: Wings_29
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1582
           y: 360
@@ -670,7 +670,7 @@ MonoBehaviour:
       Key: Glow_33
       Value:
         Name: Glow_33
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1888
           y: 934
@@ -680,7 +680,7 @@ MonoBehaviour:
       Key: Glow_213
       Value:
         Name: Glow_213
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1238
           y: 360
@@ -690,7 +690,7 @@ MonoBehaviour:
       Key: Spine
       Value:
         Name: Spine
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1418
           y: 1254
@@ -710,7 +710,7 @@ MonoBehaviour:
       Key: Mount_DrillRing
       Value:
         Name: Mount_DrillRing
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1908
           y: 1088
@@ -860,7 +860,7 @@ MonoBehaviour:
       Key: Wings_30
       Value:
         Name: Wings_30
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 808
           y: 96
@@ -870,7 +870,7 @@ MonoBehaviour:
       Key: Wings_31
       Value:
         Name: Wings_31
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 722
           y: 96
@@ -880,7 +880,7 @@ MonoBehaviour:
       Key: HairStyleBack
       Value:
         Name: HairStyleBack
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 884
           y: 1850
@@ -890,7 +890,7 @@ MonoBehaviour:
       Key: Wings_33
       Value:
         Name: Wings_33
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1238
           y: 96
@@ -910,7 +910,7 @@ MonoBehaviour:
       Key: Wings_32
       Value:
         Name: Wings_32
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 980
           y: 96
@@ -920,7 +920,7 @@ MonoBehaviour:
       Key: Wings_36
       Value:
         Name: Wings_36
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1754
           y: 360
@@ -930,7 +930,7 @@ MonoBehaviour:
       Key: Wings_37
       Value:
         Name: Wings_37
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1668
           y: 360
@@ -940,7 +940,7 @@ MonoBehaviour:
       Key: Wings_35
       Value:
         Name: Wings_35
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1152
           y: 96
@@ -950,7 +950,7 @@ MonoBehaviour:
       Key: FlyingCarpet
       Value:
         Name: FlyingCarpet
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1980
           y: 1730
@@ -970,7 +970,7 @@ MonoBehaviour:
       Key: Outline_468
       Value:
         Name: Outline_468
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 914
           y: 892
@@ -980,7 +980,7 @@ MonoBehaviour:
       Key: Glow_222
       Value:
         Name: Glow_222
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 884
           y: 1256
@@ -1030,7 +1030,7 @@ MonoBehaviour:
       Key: Glow_227
       Value:
         Name: Glow_227
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1808
           y: 1014
@@ -1080,7 +1080,7 @@ MonoBehaviour:
       Key: Ninja
       Value:
         Name: Ninja
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1770
           y: 1456
@@ -1120,7 +1120,7 @@ MonoBehaviour:
       Key: Glow_51
       Value:
         Name: Glow_51
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 714
           y: 760
@@ -1170,7 +1170,7 @@ MonoBehaviour:
       Key: Glow_56
       Value:
         Name: Glow_56
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 374
           y: 624
@@ -1190,7 +1190,7 @@ MonoBehaviour:
       Key: Mount_Drill
       Value:
         Name: Mount_Drill
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1812
           y: 1276
@@ -1320,7 +1320,7 @@ MonoBehaviour:
       Key: Glow_235
       Value:
         Name: Glow_235
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 70
           y: 10
@@ -1340,7 +1340,7 @@ MonoBehaviour:
       Key: Glow_237
       Value:
         Name: Glow_237
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1988
           y: 1096
@@ -1350,7 +1350,7 @@ MonoBehaviour:
       Key: Glow_117
       Value:
         Name: Glow_117
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1064
           y: 1310
@@ -1360,7 +1360,7 @@ MonoBehaviour:
       Key: Glow_118
       Value:
         Name: Glow_118
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 750
           y: 760
@@ -1380,7 +1380,7 @@ MonoBehaviour:
       Key: Chain12
       Value:
         Name: Chain12
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 2018
           y: 1868
@@ -1420,7 +1420,7 @@ MonoBehaviour:
       Key: Glow_60
       Value:
         Name: Glow_60
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1354
           y: 1354
@@ -1480,7 +1480,7 @@ MonoBehaviour:
       Key: Wings_50
       Value:
         Name: Wings_50
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 550
           y: 96
@@ -1510,7 +1510,7 @@ MonoBehaviour:
       Key: Waterfall_19
       Value:
         Name: Waterfall_19
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 884
           y: 1128
@@ -1610,7 +1610,7 @@ MonoBehaviour:
       Key: Tree_Tops_10
       Value:
         Name: Tree_Tops_10
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 992
           y: 1006
@@ -1640,7 +1640,7 @@ MonoBehaviour:
       Key: Wall_Desert Fossil
       Value:
         Name: Wall_Desert Fossil
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1418
           y: 1868
@@ -1730,7 +1730,7 @@ MonoBehaviour:
       Key: Waterfall_20
       Value:
         Name: Waterfall_20
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1396
           y: 1128
@@ -1740,7 +1740,7 @@ MonoBehaviour:
       Key: Waterfall_21
       Value:
         Name: Waterfall_21
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1396
           y: 1088
@@ -1770,7 +1770,7 @@ MonoBehaviour:
       Key: Glow_74
       Value:
         Name: Glow_74
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1918
           y: 1868
@@ -1820,7 +1820,7 @@ MonoBehaviour:
       Key: Mount_DrillFront
       Value:
         Name: Mount_DrillFront
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 610
           y: 908
@@ -1840,7 +1840,7 @@ MonoBehaviour:
       Key: Outline_377
       Value:
         Name: Outline_377
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1108
           y: 1434
@@ -1850,7 +1850,7 @@ MonoBehaviour:
       Key: SantaTank
       Value:
         Name: SantaTank
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 248
           y: 608
@@ -1880,7 +1880,7 @@ MonoBehaviour:
       Key: Glow_79
       Value:
         Name: Glow_79
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1950
           y: 1868
@@ -1960,7 +1960,7 @@ MonoBehaviour:
       Key: Tree_Branches_0
       Value:
         Name: Tree_Branches_0
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1328
           y: 880
@@ -1970,7 +1970,7 @@ MonoBehaviour:
       Key: Tree_Branches_1
       Value:
         Name: Tree_Branches_1
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1412
           y: 880
@@ -2000,7 +2000,7 @@ MonoBehaviour:
       Key: Tree_Branches_4
       Value:
         Name: Tree_Branches_4
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1812
           y: 1724
@@ -2010,7 +2010,7 @@ MonoBehaviour:
       Key: Tree_Branches_5
       Value:
         Name: Tree_Branches_5
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 830
           y: 880
@@ -2020,7 +2020,7 @@ MonoBehaviour:
       Key: Tree_Branches_6
       Value:
         Name: Tree_Branches_6
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 992
           y: 880
@@ -2030,7 +2030,7 @@ MonoBehaviour:
       Key: Tree_Branches_7
       Value:
         Name: Tree_Branches_7
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 746
           y: 880
@@ -2040,7 +2040,7 @@ MonoBehaviour:
       Key: Tree_Branches_8
       Value:
         Name: Tree_Branches_8
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 980
           y: 1298
@@ -2050,7 +2050,7 @@ MonoBehaviour:
       Key: Tree_Branches_9
       Value:
         Name: Tree_Branches_9
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 746
           y: 1122
@@ -2060,7 +2060,7 @@ MonoBehaviour:
       Key: Tiles_5_0
       Value:
         Name: Tiles_5_0
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1594
           y: 1456
@@ -2080,7 +2080,7 @@ MonoBehaviour:
       Key: Tiles_5_2
       Value:
         Name: Tiles_5_2
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1108
           y: 1586
@@ -2090,7 +2090,7 @@ MonoBehaviour:
       Key: Tiles_5_3
       Value:
         Name: Tiles_5_3
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1418
           y: 1456
@@ -2110,7 +2110,7 @@ MonoBehaviour:
       Key: Tiles_5_5
       Value:
         Name: Tiles_5_5
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 374
           y: 344
@@ -2120,7 +2120,7 @@ MonoBehaviour:
       Key: Tiles_5_6
       Value:
         Name: Tiles_5_6
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1812
           y: 1456
@@ -2130,7 +2130,7 @@ MonoBehaviour:
       Key: Extra_15
       Value:
         Name: Extra_15
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 980
           y: 1424
@@ -2150,7 +2150,7 @@ MonoBehaviour:
       Key: Extra_17
       Value:
         Name: Extra_17
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 660
           y: 756
@@ -2160,7 +2160,7 @@ MonoBehaviour:
       Key: Glow_89
       Value:
         Name: Glow_89
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1316
           y: 1428
@@ -2210,7 +2210,7 @@ MonoBehaviour:
       Key: Glow_140
       Value:
         Name: Glow_140
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 2018
           y: 1912
@@ -2270,7 +2270,7 @@ MonoBehaviour:
       Key: Glow_146
       Value:
         Name: Glow_146
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1988
           y: 1468
@@ -2280,7 +2280,7 @@ MonoBehaviour:
       Key: Mount_Slime
       Value:
         Name: Mount_Slime
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1988
           y: 1264
@@ -2290,7 +2290,7 @@ MonoBehaviour:
       Key: Glow_148
       Value:
         Name: Glow_148
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 2006
           y: 958
@@ -2350,7 +2350,7 @@ MonoBehaviour:
       Key: Glow_90
       Value:
         Name: Glow_90
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 980
           y: 1256
@@ -2360,7 +2360,7 @@ MonoBehaviour:
       Key: Glow_91
       Value:
         Name: Glow_91
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1748
           y: 916
@@ -2550,7 +2550,7 @@ MonoBehaviour:
       Key: Eye_Laser
       Value:
         Name: Eye_Laser
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 500
           y: 848
@@ -2580,7 +2580,7 @@ MonoBehaviour:
       Key: Glow_156
       Value:
         Name: Glow_156
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 746
           y: 1248
@@ -2590,7 +2590,7 @@ MonoBehaviour:
       Key: Glow_157
       Value:
         Name: Glow_157
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 578
           y: 676
@@ -2600,7 +2600,7 @@ MonoBehaviour:
       Key: Glow_158
       Value:
         Name: Glow_158
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 534
           y: 676
@@ -2610,7 +2610,7 @@ MonoBehaviour:
       Key: Glow_159
       Value:
         Name: Glow_159
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 700
           y: 848
@@ -2720,7 +2720,7 @@ MonoBehaviour:
       Key: Extra_32
       Value:
         Name: Extra_32
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1730
           y: 1012
@@ -2760,7 +2760,7 @@ MonoBehaviour:
       Key: Extra_36
       Value:
         Name: Extra_36
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 438
           y: 646
@@ -2770,7 +2770,7 @@ MonoBehaviour:
       Key: Extra_37
       Value:
         Name: Extra_37
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1954
           y: 1286
@@ -2890,7 +2890,7 @@ MonoBehaviour:
       Key: Sky_Slime_4
       Value:
         Name: Sky_Slime_4
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 700
           y: 936
@@ -2940,7 +2940,7 @@ MonoBehaviour:
       Key: Chains_1
       Value:
         Name: Chains_1
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1982
           y: 1868
@@ -2950,7 +2950,7 @@ MonoBehaviour:
       Key: Eye_Laser_Small
       Value:
         Name: Eye_Laser_Small
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1354
           y: 1270
@@ -3010,7 +3010,7 @@ MonoBehaviour:
       Key: Extra_40
       Value:
         Name: Extra_40
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 248
           y: 80
@@ -3070,7 +3070,7 @@ MonoBehaviour:
       Key: Extra_46
       Value:
         Name: Extra_46
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 500
           y: 646
@@ -3310,7 +3310,7 @@ MonoBehaviour:
       Key: Inventory_Back3
       Value:
         Name: Inventory_Back3
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 994
           y: 796
@@ -3320,7 +3320,7 @@ MonoBehaviour:
       Key: Inventory_Back4
       Value:
         Name: Inventory_Back4
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1046
           y: 796
@@ -3330,7 +3330,7 @@ MonoBehaviour:
       Key: Inventory_Back5
       Value:
         Name: Inventory_Back5
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1098
           y: 796
@@ -3340,7 +3340,7 @@ MonoBehaviour:
       Key: Inventory_Back6
       Value:
         Name: Inventory_Back6
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 942
           y: 796
@@ -3350,7 +3350,7 @@ MonoBehaviour:
       Key: Inventory_Back7
       Value:
         Name: Inventory_Back7
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 786
           y: 796
@@ -3360,7 +3360,7 @@ MonoBehaviour:
       Key: Extra_54
       Value:
         Name: Extra_54
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1594
           y: 1252
@@ -3370,7 +3370,7 @@ MonoBehaviour:
       Key: Inventory_Back9
       Value:
         Name: Inventory_Back9
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 890
           y: 796
@@ -3390,7 +3390,7 @@ MonoBehaviour:
       Key: Inventory_Back8
       Value:
         Name: Inventory_Back8
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 838
           y: 796
@@ -3410,7 +3410,7 @@ MonoBehaviour:
       Key: Extra_59
       Value:
         Name: Extra_59
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1886
           y: 1896
@@ -3420,7 +3420,7 @@ MonoBehaviour:
       Key: Extra_51
       Value:
         Name: Extra_51
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 324
           y: 176
@@ -3450,7 +3450,7 @@ MonoBehaviour:
       Key: Glow_180
       Value:
         Name: Glow_180
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 684
           y: 682
@@ -3460,7 +3460,7 @@ MonoBehaviour:
       Key: Glow_181
       Value:
         Name: Glow_181
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1840
           y: 360
@@ -3470,7 +3470,7 @@ MonoBehaviour:
       Key: Glow_182
       Value:
         Name: Glow_182
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 636
           y: 96
@@ -3480,7 +3480,7 @@ MonoBehaviour:
       Key: Glow_183
       Value:
         Name: Glow_183
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1066
           y: 96
@@ -3490,7 +3490,7 @@ MonoBehaviour:
       Key: Wings_2
       Value:
         Name: Wings_2
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1496
           y: 360
@@ -3500,7 +3500,7 @@ MonoBehaviour:
       Key: Outline_10
       Value:
         Name: Outline_10
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 142
           y: 66
@@ -3510,7 +3510,7 @@ MonoBehaviour:
       Key: Outline_11
       Value:
         Name: Outline_11
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 0
           y: 66
@@ -3530,7 +3530,7 @@ MonoBehaviour:
       Key: Wings_6
       Value:
         Name: Wings_6
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 460
           y: 96
@@ -3540,7 +3540,7 @@ MonoBehaviour:
       Key: Wings_4
       Value:
         Name: Wings_4
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1926
           y: 360
@@ -3550,7 +3550,7 @@ MonoBehaviour:
       Key: Wings_8
       Value:
         Name: Wings_8
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1410
           y: 96
@@ -3560,7 +3560,7 @@ MonoBehaviour:
       Key: Wings_3
       Value:
         Name: Wings_3
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 894
           y: 96
@@ -3570,7 +3570,7 @@ MonoBehaviour:
       Key: Wings_7
       Value:
         Name: Wings_7
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 374
           y: 96
@@ -3590,7 +3590,7 @@ MonoBehaviour:
       Key: Wings_9
       Value:
         Name: Wings_9
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1668
           y: 96
@@ -3600,7 +3600,7 @@ MonoBehaviour:
       Key: Wings_1
       Value:
         Name: Wings_1
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1496
           y: 96
@@ -3660,7 +3660,7 @@ MonoBehaviour:
       Key: Extra_63
       Value:
         Name: Extra_63
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1036
           y: 1256
@@ -3820,7 +3820,7 @@ MonoBehaviour:
       Key: Glow_196
       Value:
         Name: Glow_196
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1306
           y: 798
@@ -3950,7 +3950,7 @@ MonoBehaviour:
       Key: Extra_71
       Value:
         Name: Extra_71
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1696
           y: 1288
@@ -4020,7 +4020,7 @@ MonoBehaviour:
       Key: Extra_78
       Value:
         Name: Extra_78
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 610
           y: 1088
@@ -4030,7 +4030,7 @@ MonoBehaviour:
       Key: Extra_79
       Value:
         Name: Extra_79
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1284
           y: 1428
@@ -4050,7 +4050,7 @@ MonoBehaviour:
       Key: Bone_Laser
       Value:
         Name: Bone_Laser
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 0
           y: 4
@@ -4060,7 +4060,7 @@ MonoBehaviour:
       Key: BeetleOrb
       Value:
         Name: BeetleOrb
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 472
           y: 668
@@ -4110,7 +4110,7 @@ MonoBehaviour:
       Key: Mount_Minecart
       Value:
         Name: Mount_Minecart
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 500
           y: 746
@@ -4190,7 +4190,7 @@ MonoBehaviour:
       Key: Extra_0
       Value:
         Name: Extra_0
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1770
           y: 1500
@@ -4200,7 +4200,7 @@ MonoBehaviour:
       Key: Extra_1
       Value:
         Name: Extra_1
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 2012
           y: 124
@@ -4230,7 +4230,7 @@ MonoBehaviour:
       Key: Extra_4
       Value:
         Name: Extra_4
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 40
           y: 10
@@ -4240,7 +4240,7 @@ MonoBehaviour:
       Key: Extra_5
       Value:
         Name: Extra_5
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1008
           y: 1256
@@ -4250,7 +4250,7 @@ MonoBehaviour:
       Key: Extra_6
       Value:
         Name: Extra_6
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1818
           y: 916
@@ -4280,7 +4280,7 @@ MonoBehaviour:
       Key: Wraith_Eyes
       Value:
         Name: Wraith_Eyes
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1392
           y: 1650
@@ -4310,7 +4310,7 @@ MonoBehaviour:
       Key: Extra_80
       Value:
         Name: Extra_80
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 304
           y: 128
@@ -4330,7 +4330,7 @@ MonoBehaviour:
       Key: Dest1
       Value:
         Name: Dest1
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 610
           y: 746
@@ -4340,7 +4340,7 @@ MonoBehaviour:
       Key: Tree_Tops_0
       Value:
         Name: Tree_Tops_0
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1238
           y: 1006
@@ -4350,7 +4350,7 @@ MonoBehaviour:
       Key: Tree_Tops_1
       Value:
         Name: Tree_Tops_1
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1484
           y: 1006
@@ -4370,7 +4370,7 @@ MonoBehaviour:
       Key: Extra_89
       Value:
         Name: Extra_89
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1956
           y: 1016
@@ -4380,7 +4380,7 @@ MonoBehaviour:
       Key: Tree_Tops_4
       Value:
         Name: Tree_Tops_4
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1108
           y: 1342
@@ -4390,7 +4390,7 @@ MonoBehaviour:
       Key: Tree_Tops_5
       Value:
         Name: Tree_Tops_5
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1108
           y: 1260
@@ -4400,7 +4400,7 @@ MonoBehaviour:
       Key: Tree_Tops_6
       Value:
         Name: Tree_Tops_6
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 746
           y: 1006
@@ -4410,7 +4410,7 @@ MonoBehaviour:
       Key: Dest3
       Value:
         Name: Dest3
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 550
           y: 746
@@ -4430,7 +4430,7 @@ MonoBehaviour:
       Key: Extra_83
       Value:
         Name: Extra_83
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1368
           y: 1430
@@ -4440,7 +4440,7 @@ MonoBehaviour:
       Key: Chat2
       Value:
         Name: Chat2
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1886
           y: 1868
@@ -4460,7 +4460,7 @@ MonoBehaviour:
       Key: Chain4
       Value:
         Name: Chain4
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1998
           y: 1868
@@ -4470,7 +4470,7 @@ MonoBehaviour:
       Key: Chain5
       Value:
         Name: Chain5
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1966
           y: 1868
@@ -4590,7 +4590,7 @@ MonoBehaviour:
       Key: Inventory_Back10
       Value:
         Name: Inventory_Back10
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1254
           y: 796
@@ -4600,7 +4600,7 @@ MonoBehaviour:
       Key: Inventory_Back11
       Value:
         Name: Inventory_Back11
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1150
           y: 796
@@ -4610,7 +4610,7 @@ MonoBehaviour:
       Key: Inventory_Back12
       Value:
         Name: Inventory_Back12
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1954
           y: 954
@@ -4620,7 +4620,7 @@ MonoBehaviour:
       Key: Inventory_Back13
       Value:
         Name: Inventory_Back13
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 610
           y: 856
@@ -4630,7 +4630,7 @@ MonoBehaviour:
       Key: Tree_Branches_10
       Value:
         Name: Tree_Branches_10
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1160
           y: 880
@@ -4640,7 +4640,7 @@ MonoBehaviour:
       Key: Tree_Branches_11
       Value:
         Name: Tree_Branches_11
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1244
           y: 880
@@ -4650,7 +4650,7 @@ MonoBehaviour:
       Key: Tree_Branches_12
       Value:
         Name: Tree_Branches_12
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1664
           y: 880
@@ -4660,7 +4660,7 @@ MonoBehaviour:
       Key: Tree_Branches_13
       Value:
         Name: Tree_Branches_13
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1496
           y: 880
@@ -4670,7 +4670,7 @@ MonoBehaviour:
       Key: Tree_Branches_14
       Value:
         Name: Tree_Branches_14
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1580
           y: 880
@@ -4680,7 +4680,7 @@ MonoBehaviour:
       Key: Tree_Branches_15
       Value:
         Name: Tree_Branches_15
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1076
           y: 880
@@ -4690,7 +4690,7 @@ MonoBehaviour:
       Key: Tree_Branches_16
       Value:
         Name: Tree_Branches_16
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1284
           y: 1460
@@ -4700,7 +4700,7 @@ MonoBehaviour:
       Key: Tree_Branches_17
       Value:
         Name: Tree_Branches_17
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1902
           y: 1330
@@ -4710,7 +4710,7 @@ MonoBehaviour:
       Key: Tree_Branches_18
       Value:
         Name: Tree_Branches_18
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1896
           y: 1724
@@ -4720,7 +4720,7 @@ MonoBehaviour:
       Key: Inventory_Back14
       Value:
         Name: Inventory_Back14
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1902
           y: 1278
@@ -4850,7 +4850,7 @@ MonoBehaviour:
       Key: Mount_MinecartMechGlow
       Value:
         Name: Mount_MinecartMechGlow
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 830
           y: 1134
@@ -4880,7 +4880,7 @@ MonoBehaviour:
       Key: Mount_MinecartWood
       Value:
         Name: Mount_MinecartWood
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1368
           y: 1484
@@ -5060,7 +5060,7 @@ MonoBehaviour:
       Key: Xmas_0
       Value:
         Name: Xmas_0
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1216
           y: 1458
@@ -5090,7 +5090,7 @@ MonoBehaviour:
       Key: Xmas_3
       Value:
         Name: Xmas_3
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1418
           y: 1720
@@ -5120,7 +5120,7 @@ MonoBehaviour:
       Key: ref1
       Value:
         Name: ref1
-        Texture: {fileID: 2800000, guid: 21fd1cc7e52e0b44587cac4f33b06a25, type: 3}
+        Texture: {fileID: 2800000, guid: bc72ec2a63bfa4348af1ffe84ade4ad7, type: 3}
         Bounds:
           x: 1392
           y: 1620

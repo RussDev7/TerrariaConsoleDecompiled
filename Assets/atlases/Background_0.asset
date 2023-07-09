@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6798d1dcb7e54a6d491503e7da17d1af, type: 3}
   m_Name: Background_0
   m_EditorClassIdentifier:
-  Texture: {fileID: 2800000, guid: 2e42bd168d599114ca31da16494dd027, type: 3}
+  Texture: {fileID: 2800000, guid: 6335f076920072a488f3f56f2185c542, type: 3}
   Regions:
     Size: 128
     SlotCount: 4
@@ -350,7 +350,7 @@ MonoBehaviour:
       Key: Background_112
       Value:
         Name: Background_112
-        Texture: {fileID: 2800000, guid: 2e42bd168d599114ca31da16494dd027, type: 3}
+        Texture: {fileID: 2800000, guid: 6335f076920072a488f3f56f2185c542, type: 3}
         Bounds:
           x: 0
           y: 354
@@ -500,7 +500,7 @@ MonoBehaviour:
       Key: Background_10
       Value:
         Name: Background_10
-        Texture: {fileID: 2800000, guid: 2e42bd168d599114ca31da16494dd027, type: 3}
+        Texture: {fileID: 2800000, guid: 6335f076920072a488f3f56f2185c542, type: 3}
         Bounds:
           x: 0
           y: 8
@@ -1090,7 +1090,7 @@ MonoBehaviour:
       Key: Underworld 1
       Value:
         Name: Underworld 1
-        Texture: {fileID: 2800000, guid: 2e42bd168d599114ca31da16494dd027, type: 3}
+        Texture: {fileID: 2800000, guid: 6335f076920072a488f3f56f2185c542, type: 3}
         Bounds:
           x: 0
           y: 788
@@ -1210,7 +1210,7 @@ MonoBehaviour:
       Key: Background_39
       Value:
         Name: Background_39
-        Texture: {fileID: 2800000, guid: 2e42bd168d599114ca31da16494dd027, type: 3}
+        Texture: {fileID: 2800000, guid: 6335f076920072a488f3f56f2185c542, type: 3}
         Bounds:
           x: 1024
           y: 8

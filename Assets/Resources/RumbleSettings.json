@@ -1,0 +1,36 @@
+{
+	"PlayerHurt":
+	{
+		"AssetName": "PlayerHurt",
+		"PanScalar": 0.75
+	},
+	"NpcStruck":
+	{
+		"AssetName": "TileDamaged",
+		"MinAmplify": 0.25,
+		"MaxAmplify": 2.0,
+		"SmallKnockBack": 3.0,
+		"LargeKnockBack": 7.0
+	},
+	"TileDamaged":
+	{
+		"AssetName": "TileDamaged",
+		"MinAmplify": 0.25,
+		"MaxAmplify": 1.25,
+		"MinDurationScalar": 1.0,
+		"MaxDurationScalar": 1.25
+	},
+	"RangedWeaponFired":
+	{
+		"AssetName": "TileDamaged"
+	},
+	"Explosion":
+	{
+		"AssetName": "Explosion",
+		"FullAmplitudeTileDist": 10,
+		"FalloffPower" : 1.5,
+		"IntensityCutOff": 0.05,
+		"AmplifyScalar": 0.01,
+		"AddDurationScalar": 0.0
+	}
+}
